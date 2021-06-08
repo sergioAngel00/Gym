@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Clonamos el repositorio de camilo debido a un error de subida
+## Con eso puede ver nuestro proyecto
 
 This project is a starting point for a Flutter application.
 
